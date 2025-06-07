@@ -18,7 +18,6 @@ const queryClient = new QueryClient({
   },
 });
 
- 
 export { useQuery };
 
 const ReactQueryProvider = ({ children }: ReactQueryProviderType) => {

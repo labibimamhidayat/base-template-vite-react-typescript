@@ -12,8 +12,8 @@ interface ExampleStore {
 
 export const useExampleStore = create<ExampleStore>((set) => ({
   items: [],
-  addItem: (item) => set((state) => {
-
-    return ({ items: [...state.items, item] })
-  }),
+  addItem: (item) =>
+    set((state) => {
+      return { items: [...state.items, item] };
+    }),
 }));

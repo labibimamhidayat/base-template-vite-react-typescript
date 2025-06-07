@@ -5,7 +5,7 @@ import { Card, CardContent } from "@/components/shadcn/ui/card";
 import { Input } from "@/components/shadcn/ui/input";
 
 // Business logic for voucher calculation
- 
+
 export function calculateVoucher(
   price: number,
   discount: number,

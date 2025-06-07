@@ -24,6 +24,6 @@
     "jsx": "react-jsx",
 
     /* Linting */
-    "strict": true,
+    "strict": true
   }
 }
