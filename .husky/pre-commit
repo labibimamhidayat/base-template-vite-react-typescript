@@ -1,3 +1,2 @@
 echo "🪝 pre-commit hook running"
-
 pnpm lint-staged

@@ -1,0 +1,37 @@
+[
+  {
+    "ticker": "AAL",
+    "name": "American Airlines Group Inc.",
+    "currentPrice": 12.34,
+    "currency_name": "usd",
+    "todaysChangePercentage": "-8.76 %"
+  },
+  {
+    "ticker": "CCL",
+    "name": "Carnival Corporation & plc",
+    "currentPrice": 9.87,
+    "currency_name": "usd",
+    "todaysChangePercentage": "-7.45 %"
+  },
+  {
+    "ticker": "NCLH",
+    "name": "Norwegian Cruise Line Holdings Ltd.",
+    "currentPrice": 11.56,
+    "currency_name": "usd",
+    "todaysChangePercentage": "-6.89 %"
+  },
+  {
+    "ticker": "UAL",
+    "name": "United Airlines Holdings, Inc.",
+    "currentPrice": 15.23,
+    "currency_name": "usd",
+    "todaysChangePercentage": "-6.32 %"
+  },
+  {
+    "ticker": "RCL",
+    "name": "Royal Caribbean Group",
+    "currentPrice": 48.67,
+    "currency_name": "usd",
+    "todaysChangePercentage": "-5.98 %"
+  }
+]

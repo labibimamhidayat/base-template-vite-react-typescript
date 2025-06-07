@@ -1,4 +1,3 @@
-#!/bin/sh
 commit_msg=$(cat $1)
 regex="^((major|feat|feature|patch|fix|hotFix|bugFix|chore|docs|revert|refactor):){1}([[:blank:]])+(@([A-Za-z0-9]{1,}))([[:blank:]])+[A-Za-z0-9]{1,}"
 COLOR='\033[1;33m'
